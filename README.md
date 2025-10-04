@@ -9,7 +9,7 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Graduated B.Tech (Information Technology) at **Sri Venkateswara College of Engineering**, Anna University.  
+- 🎓 Graduated B.Tech (Information Technology).  
 - 💼 15 months of experience as a **Full-Stack Developer** in a product-based company.  
 - 🔭 Built **Microservice for handling billing and licensing **.  
 - 🌱 Interested in **cloud platforms, microservices, and security analytics**.  
